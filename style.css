@@ -371,7 +371,7 @@ footer {
   margin-top: 10px;
 }
 
-/* ===== ADVANCE PAYMENT TEXT (छोटा) ===== */
+/* ===== ADVANCE PAYMENT TEXT ===== */
 .advance-text {
   font-size: 11px;
   color: #666;
@@ -503,7 +503,7 @@ footer {
   border-radius: 20px;
 }
 
-/* Normal scroll speed - यही normal speed है */
+/* Normal scroll speed */
 .carousel.normal-scroll .carousel-images {
   scroll-behavior: smooth;
 }
